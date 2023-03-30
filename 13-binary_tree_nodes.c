@@ -3,7 +3,7 @@
 /**
  * binary_tree_nodes - Counts the nodes .
  * @tree: ptr to the root node .
- * Return: If tree is NULL, the function must return 0, else return node count .
+ * Return: If tree is NULL, the function must return 0, else return node count.
  */
 size_t binary_tree_nodes(const binary_tree_t *tree)
 {
